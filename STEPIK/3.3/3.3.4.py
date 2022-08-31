@@ -25,3 +25,4 @@ n = len(words)
 first = "" if n == 0 else words(0)
 print(words.string)
 print(f"Число слов: {n}; первое слово: {first}")
+...
