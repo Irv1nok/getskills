@@ -1,10 +1,10 @@
 class LinkedList:
 
-    def __init__(self) ->None:
+    def __init__(self) -> None:
         self.head = None
         self.tail = None
 
-    def add_obj(self, obj):
+    def add_obj(self, obj: 'ObjList'):
         if not self.head:
             self.head = obj
             self.tail = obj
@@ -13,30 +13,63 @@ class LinkedList:
             obj.prev = self.tail
             self.tail = obj
 
-    def remove_obj(self, indx):
-        ...
+    def remove_obj(self, indx: int):
+        res = self.pass_link_list(indx=indx)
+        if res.next:
+            if res.prev:
+                res.prev.next = res.next
+                res.next.prev = res.prev
+                del res
+            else:
+                res.next.prev = res.prev
+                self.head = res.next
+                del res
+        elif res == self.head:
+            self.head = None
+            self.tail = None
 
-    def __len__(self):
-        if self.head:
-            count = 1
-            n = self.head
         else:
-            return 0
-        while n.next != None:
-            n = n.next
+            self.tail = res.prev
+            res.prev.next = None
+            del res
+
+    def pass_link_list(self, indx: int = None, lenght: bool = None):
+        if self.head:
+            count = 0
+            obj = self.head
+        elif lenght or indx:
+            return 0 if lenght else None
+
+        while obj is not None:
+            if count == indx:
+                return obj
+
+            obj = obj.next
             count += 1
         return count
 
+    def __len__(self):
+        return self.pass_link_list(lenght=True)
+
     def __call__(self, indx, *args, **kwargs):
-        return self[indx]
+        res = self.pass_link_list(indx=indx)
+        return res.data
 
 
 class ObjList:
 
-    def __init__(self, data):
+    def __init__(self, data: str) -> None:
         self.__data = data
         self.__prev = None
         self.__next = None
+
+    @property
+    def data(self):
+        return self.__data
+
+    @data.setter
+    def data(self, string):
+        self.__data = string
 
     @property
     def prev(self):
@@ -59,9 +92,8 @@ linked_lst = LinkedList()
 linked_lst.add_obj(ObjList("Sergey"))
 linked_lst.add_obj(ObjList("Balakirev"))
 linked_lst.add_obj(ObjList("Python"))
-print(linked_lst.__dict__)
-# linked_lst.remove_obj(2)
-# linked_lst.add_obj(ObjList("Python ООП"))
+linked_lst.remove_obj(1)
+linked_lst.add_obj(ObjList("Python ООП"))
 n = len(linked_lst)  # n = 3
 print(n)
-# s = linked_lst(1) # s = Balakirev
+s = linked_lst(1) # s = Balakirev
