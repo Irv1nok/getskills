@@ -33,12 +33,12 @@ class LinkedList:
             res.prev.next = None
             del res
 
-    def pass_link_list(self, indx: int = None, lenght: bool = None):
+    def pass_link_list(self, indx: int = None):
         if self.head:
             count = 0
             obj = self.head
-        elif lenght or indx:
-            return 0 if lenght else None
+        else:
+            return None
 
         while obj is not None:
             if count == indx:
@@ -49,7 +49,7 @@ class LinkedList:
         return count
 
     def __len__(self):
-        return self.pass_link_list(lenght=True)
+        return self.pass_link_list()
 
     def __call__(self, indx, *args, **kwargs):
         res = self.pass_link_list(indx=indx)
@@ -92,7 +92,7 @@ linked_lst = LinkedList()
 linked_lst.add_obj(ObjList("Sergey"))
 linked_lst.add_obj(ObjList("Balakirev"))
 linked_lst.add_obj(ObjList("Python"))
-linked_lst.remove_obj(1)
+linked_lst.remove_obj(2)
 linked_lst.add_obj(ObjList("Python ООП"))
 n = len(linked_lst)  # n = 3
 print(n)
