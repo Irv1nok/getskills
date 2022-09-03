@@ -69,7 +69,8 @@ class ObjList:
 
     @data.setter
     def data(self, string):
-        self.__data = string
+        if type(string) == str:
+            self.__data = string
 
     @property
     def prev(self):
@@ -77,7 +78,8 @@ class ObjList:
 
     @prev.setter
     def prev(self, obj):
-        self.__prev = obj
+        if type(obj) in (ObjList, None):
+            self.__prev = obj
 
     @property
     def next(self):
@@ -85,7 +87,8 @@ class ObjList:
 
     @next.setter
     def next(self, obj):
-        self.__next = obj
+        if type(obj) in (ObjList, None):
+            self.__next = obj
 
 
 linked_lst = LinkedList()
