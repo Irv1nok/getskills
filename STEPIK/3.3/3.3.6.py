@@ -1,9 +1,10 @@
 from typing import Union
 from math import sqrt
 
+
 class Complex:
 
-    def __init__(self, real: Union[int, float], img: Union[int, float]) -> None:
+    def __init__(self, real: Union[int, float], img: Union[int, float]):
         self.real = real
         self.img = img
 
@@ -32,8 +33,9 @@ class Complex:
     def __abs__(self):
         return sqrt(self.real ** 2 + self.img ** 2)
 
-
     """ЧЕРЕЗ ДЕСКРИПТОР ДАННЫХ"""
+
+
 # class Des:
 #     def __set_name__(self, owner, name):
 #         self.name = f'_{owner.__name__}__{name}'
@@ -52,4 +54,3 @@ cmp = Complex(7, 8)
 cmp.real = 3
 cmp.img = 4
 c_abs = abs(cmp)
-
