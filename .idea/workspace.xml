@@ -16,7 +16,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6320343-ccbb-4c77-8306-74e8a3dae061" name="Default Changelist" comment="" />
+    <list default="true" id="a6320343-ccbb-4c77-8306-74e8a3dae061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.4/3.4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.4/3.4.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/getskills.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/getskills.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661967447785</updated>
       <workItem from="1661967451083" duration="368000" />
+      <workItem from="1663192598897" duration="56000" />
     </task>
     <servers />
   </component>
@@ -74,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
