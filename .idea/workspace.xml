@@ -20,11 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6320343-ccbb-4c77-8306-74e8a3dae061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.5/3.5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.5/3.5.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.5/3.5.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.5/3.5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.5/3.5.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.6/3.6.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.7/3.7.9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/STEPIK/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/STEPIK/test.py" afterDir="false" />
     </list>
@@ -64,8 +71,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.3.5.10">
-    <configuration name="3.5.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3.7.7">
+    <configuration name="3.6.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,12 +80,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.5/3.5.10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.6/3.6.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.5.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.7.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.5/3.5.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.7/3.7.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.5.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.7.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.5/3.5.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.7/3.7.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.5.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.7.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.5/3.5.8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.7/3.7.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.5.10" />
-        <item itemvalue="Python.3.5.8" />
+        <item itemvalue="Python.3.7.7" />
+        <item itemvalue="Python.3.7.5" />
+        <item itemvalue="Python.3.7.4" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.3.5.7" />
-        <item itemvalue="Python.3.5.6" />
+        <item itemvalue="Python.3.6.10" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +214,10 @@
       <workItem from="1664386155271" duration="17728000" />
       <workItem from="1664653170655" duration="8164000" />
       <workItem from="1664828176140" duration="17352000" />
-      <workItem from="1665001567854" duration="11055000" />
+      <workItem from="1665001567854" duration="32561000" />
+      <workItem from="1665264111279" duration="5721000" />
+      <workItem from="1665337270378" duration="9701000" />
+      <workItem from="1665598524467" duration="7621000" />
     </task>
     <servers />
   </component>
@@ -250,21 +260,35 @@
           <line>30</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STEPIK/3.6/3.6.10.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/getskills$3_5_3.coverage" NAME="3.5.3 Coverage Results" MODIFIED="1664140290325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$test.coverage" NAME="test Coverage Results" MODIFIED="1664917643717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK" />
     <SUITE FILE_PATH="coverage/getskills$3_4_8.coverage" NAME="3.4.8 Coverage Results" MODIFIED="1663700547854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
-    <SUITE FILE_PATH="coverage/getskills$3_4_6.coverage" NAME="3.4.6 Coverage Results" MODIFIED="1663193118626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
     <SUITE FILE_PATH="coverage/getskills$3_5_6.coverage" NAME="3.5.6 Coverage Results" MODIFIED="1664661948669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_4.coverage" NAME="3.6.4 Coverage Results" MODIFIED="1665084910030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_8.coverage" NAME="3.6.8 Coverage Results" MODIFIED="1665266119262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_5.coverage" NAME="3.7.5 Coverage Results" MODIFIED="1665514833261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_5.coverage" NAME="3.5.5 Coverage Results" MODIFIED="1664483661390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_7.coverage" NAME="3.6.7 Coverage Results" MODIFIED="1665182596385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_10.coverage" NAME="3.6.10 Coverage Results" MODIFIED="1665341183160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$test.coverage" NAME="test Coverage Results" MODIFIED="1665341823672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_4.coverage" NAME="3.7.4 Coverage Results" MODIFIED="1665511603034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_9.coverage" NAME="3.6.9 Coverage Results" MODIFIED="1665269841298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_7.coverage" NAME="3.7.7 Coverage Results" MODIFIED="1665607242755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_6.coverage" NAME="3.6.6 Coverage Results" MODIFIED="1665179831967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_4_6.coverage" NAME="3.4.6 Coverage Results" MODIFIED="1663193118626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
     <SUITE FILE_PATH="coverage/getskills$3_4_10.coverage" NAME="3.4.10 Coverage Results" MODIFIED="1663888620061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
     <SUITE FILE_PATH="coverage/getskills$3_5_8.coverage" NAME="3.5.8 Coverage Results" MODIFIED="1665001919347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_5_10.coverage" NAME="3.5.10 Coverage Results" MODIFIED="1665013070270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_5_4.coverage" NAME="3.5.4 Coverage Results" MODIFIED="1664394882133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_5_7.coverage" NAME="3.5.7 Coverage Results" MODIFIED="1664832127863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_5.coverage" NAME="3.5.5 Coverage Results" MODIFIED="1664483661390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_4_9.coverage" NAME="3.4.9 Coverage Results" MODIFIED="1663707882102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
   </component>
 </project>
