@@ -80,8 +80,6 @@ class Stack:
     def __setitem__(self, key, value):
         if type(key) != int or not 0 <= key <= self.obj_count:
             raise IndexError('неверный индекс')
-        print(self.__dict__)
-        print(self[1])
         n = self.top
         count = 0
         while count != key:
