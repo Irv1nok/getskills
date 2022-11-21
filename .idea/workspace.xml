@@ -20,15 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6320343-ccbb-4c77-8306-74e8a3dae061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.8/3.8.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/3.10/3.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.1/4.1.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STEPIK/4.2/4.2.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/getskills.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/getskills.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STEPIK/3.8/3.8.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/STEPIK/3.8/3.8.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STEPIK/3.9/3.9.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/STEPIK/3.9/3.9.10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/STEPIK/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/STEPIK/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +73,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -72,8 +81,8 @@
       <recent name="C:\Users\User\Documents\GitHub\getskills\STEPIK" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.9.10">
-    <configuration name="3.9.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4.2.9">
+    <configuration name="4.2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/4.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.9/3.9.10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/4.2/4.2.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.9.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.2.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/4.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.9/3.9.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/4.2/4.2.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.9.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/4.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.9/3.9.8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/4.2/4.2.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.9.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getskills" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STEPIK/4.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/3.9/3.9.9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STEPIK/4.2/4.2.9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.9.10" />
+        <item itemvalue="Python.4.2.9" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.3.9.9" />
-        <item itemvalue="Python.3.9.8" />
-        <item itemvalue="Python.3.9.7" />
+        <item itemvalue="Python.4.2.7" />
+        <item itemvalue="Python.4.2.6" />
+        <item itemvalue="Python.4.2.4" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +244,16 @@
       <workItem from="1667417316923" duration="9388000" />
       <workItem from="1667513644754" duration="14874000" />
       <workItem from="1667845342986" duration="18076000" />
-      <workItem from="1668013845318" duration="26412000" />
+      <workItem from="1668013845318" duration="26467000" />
+      <workItem from="1668371197981" duration="14618000" />
+      <workItem from="1668620250890" duration="11628000" />
+      <workItem from="1668718702710" duration="12579000" />
+      <workItem from="1668883514153" duration="26264000" />
+      <workItem from="1669050026057" duration="299000" />
+      <workItem from="1669050336056" duration="333000" />
+      <workItem from="1669050677177" duration="7620000" />
+      <workItem from="1669062393037" duration="25000" />
+      <workItem from="1669062425542" duration="1064000" />
     </task>
     <servers />
   </component>
@@ -298,47 +316,79 @@
           <line>105</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STEPIK/4.1/4.1.7.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STEPIK/4.1/4.1.9.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STEPIK/4.2/4.2.3.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/STEPIK/4.2/4.2.4.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/getskills$3_9_5.coverage" NAME="3.9.5 Coverage Results" MODIFIED="1667847979729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
-    <SUITE FILE_PATH="coverage/getskills$3_8_4.coverage" NAME="3.8.4 Coverage Results" MODIFIED="1666388856591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_9_8.coverage" NAME="3.9.8 Coverage Results" MODIFIED="1667940954621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
-    <SUITE FILE_PATH="coverage/getskills$3_6_8.coverage" NAME="3.6.8 Coverage Results" MODIFIED="1665266119262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
     <SUITE FILE_PATH="coverage/getskills$3_5_5.coverage" NAME="3.5.5 Coverage Results" MODIFIED="1664483661390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_7_9.coverage" NAME="3.7.9 Coverage Results" MODIFIED="1666116352423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
-    <SUITE FILE_PATH="coverage/getskills$3_8_7.coverage" NAME="3.8.7 Coverage Results" MODIFIED="1667160433007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_6_10.coverage" NAME="3.6.10 Coverage Results" MODIFIED="1665341183160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
-    <SUITE FILE_PATH="coverage/getskills$test.coverage" NAME="test Coverage Results" MODIFIED="1668027973303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK" />
-    <SUITE FILE_PATH="coverage/getskills$3_4_6.coverage" NAME="3.4.6 Coverage Results" MODIFIED="1663193118626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
-    <SUITE FILE_PATH="coverage/getskills$3_4_10.coverage" NAME="3.4.10 Coverage Results" MODIFIED="1663888620061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_10.coverage" NAME="3.5.10 Coverage Results" MODIFIED="1665013070270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$4_2_4.coverage" NAME="4.2.4 Coverage Results" MODIFIED="1669053326742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.2" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_9.coverage" NAME="4.1.9 Coverage Results" MODIFIED="1668897067773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
+    <SUITE FILE_PATH="coverage/getskills$4_2_7.coverage" NAME="4.2.7 Coverage Results" MODIFIED="1669062128396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.2" />
     <SUITE FILE_PATH="coverage/getskills$3_8_6.coverage" NAME="3.8.6 Coverage Results" MODIFIED="1666906299290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_4.coverage" NAME="3.5.4 Coverage Results" MODIFIED="1664394882133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_7.coverage" NAME="3.5.7 Coverage Results" MODIFIED="1664832127863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_4_9.coverage" NAME="3.4.9 Coverage Results" MODIFIED="1663707882102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
     <SUITE FILE_PATH="coverage/getskills$3_9_7.coverage" NAME="3.9.7 Coverage Results" MODIFIED="1667932046485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
     <SUITE FILE_PATH="coverage/getskills$3_8_9.coverage" NAME="3.8.9 Coverage Results" MODIFIED="1667256990739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_3.coverage" NAME="3.5.3 Coverage Results" MODIFIED="1664140290325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_4_8.coverage" NAME="3.4.8 Coverage Results" MODIFIED="1663700547854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_10.coverage" NAME="4.1.10 Coverage Results" MODIFIED="1668933049656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
     <SUITE FILE_PATH="coverage/getskills$3_5_6.coverage" NAME="3.5.6 Coverage Results" MODIFIED="1664661948669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
-    <SUITE FILE_PATH="coverage/getskills$3_6_4.coverage" NAME="3.6.4 Coverage Results" MODIFIED="1665084910030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
     <SUITE FILE_PATH="coverage/getskills$3_7_8.coverage" NAME="3.7.8 Coverage Results" MODIFIED="1666028730449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$4_2_9.coverage" NAME="4.2.9 Coverage Results" MODIFIED="1669063384611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.2" />
     <SUITE FILE_PATH="coverage/getskills$3_8_3.coverage" NAME="3.8.3 Coverage Results" MODIFIED="1666384201619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_7_5.coverage" NAME="3.7.5 Coverage Results" MODIFIED="1665514833261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
     <SUITE FILE_PATH="coverage/getskills$3_6_7.coverage" NAME="3.6.7 Coverage Results" MODIFIED="1665182596385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
     <SUITE FILE_PATH="coverage/getskills$3_9_9.coverage" NAME="3.9.9 Coverage Results" MODIFIED="1668021824158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
-    <SUITE FILE_PATH="coverage/getskills$3_7_4.coverage" NAME="3.7.4 Coverage Results" MODIFIED="1665511603034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
-    <SUITE FILE_PATH="coverage/getskills$3_6_9.coverage" NAME="3.6.9 Coverage Results" MODIFIED="1665269841298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
     <SUITE FILE_PATH="coverage/getskills$3_7_7.coverage" NAME="3.7.7 Coverage Results" MODIFIED="1665607242755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
     <SUITE FILE_PATH="coverage/getskills$3_6_6.coverage" NAME="3.6.6 Coverage Results" MODIFIED="1665179831967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
     <SUITE FILE_PATH="coverage/getskills$3_8_2.coverage" NAME="3.8.2 Coverage Results" MODIFIED="1666292947766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
-    <SUITE FILE_PATH="coverage/getskills$3_5_8.coverage" NAME="3.5.8 Coverage Results" MODIFIED="1665001919347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_8_8.coverage" NAME="3.8.8 Coverage Results" MODIFIED="1667175678470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
     <SUITE FILE_PATH="coverage/getskills$3_8_10.coverage" NAME="3.8.10 Coverage Results" MODIFIED="1667429889599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
+    <SUITE FILE_PATH="coverage/getskills$3_9_10.coverage" NAME="3.9.10 Coverage Results" MODIFIED="1668373252853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_8.coverage" NAME="4.1.8 Coverage Results" MODIFIED="1668857367176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
+    <SUITE FILE_PATH="coverage/getskills$4_2_3.coverage" NAME="4.2.3 Coverage Results" MODIFIED="1668953968398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.2" />
+    <SUITE FILE_PATH="coverage/getskills$3_9_5.coverage" NAME="3.9.5 Coverage Results" MODIFIED="1667847979729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
+    <SUITE FILE_PATH="coverage/getskills$3_8_4.coverage" NAME="3.8.4 Coverage Results" MODIFIED="1666388856591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_7.coverage" NAME="4.1.7 Coverage Results" MODIFIED="1668855658843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
+    <SUITE FILE_PATH="coverage/getskills$3_9_8.coverage" NAME="3.9.8 Coverage Results" MODIFIED="1667940954621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_8.coverage" NAME="3.6.8 Coverage Results" MODIFIED="1665266119262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_9.coverage" NAME="3.7.9 Coverage Results" MODIFIED="1666116352423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$3_10.coverage" NAME="3.10 Coverage Results" MODIFIED="1668542357242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.10" />
+    <SUITE FILE_PATH="coverage/getskills$3_8_7.coverage" NAME="3.8.7 Coverage Results" MODIFIED="1667160433007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_10.coverage" NAME="3.6.10 Coverage Results" MODIFIED="1665341183160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$test.coverage" NAME="test Coverage Results" MODIFIED="1669062983472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK" />
+    <SUITE FILE_PATH="coverage/getskills$3_4_6.coverage" NAME="3.4.6 Coverage Results" MODIFIED="1663193118626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
+    <SUITE FILE_PATH="coverage/getskills$3_4_10.coverage" NAME="3.4.10 Coverage Results" MODIFIED="1663888620061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_10.coverage" NAME="3.5.10 Coverage Results" MODIFIED="1665013070270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_4.coverage" NAME="3.5.4 Coverage Results" MODIFIED="1664394882133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_7.coverage" NAME="3.5.7 Coverage Results" MODIFIED="1664832127863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_4_9.coverage" NAME="3.4.9 Coverage Results" MODIFIED="1663707882102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_3.coverage" NAME="3.5.3 Coverage Results" MODIFIED="1664140290325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
+    <SUITE FILE_PATH="coverage/getskills$3_4_8.coverage" NAME="3.4.8 Coverage Results" MODIFIED="1663700547854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.4" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_4.coverage" NAME="3.6.4 Coverage Results" MODIFIED="1665084910030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_5.coverage" NAME="3.7.5 Coverage Results" MODIFIED="1665514833261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_6.coverage" NAME="4.1.6 Coverage Results" MODIFIED="1668711294803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
+    <SUITE FILE_PATH="coverage/getskills$3_7_4.coverage" NAME="3.7.4 Coverage Results" MODIFIED="1665511603034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.7" />
+    <SUITE FILE_PATH="coverage/getskills$3_6_9.coverage" NAME="3.6.9 Coverage Results" MODIFIED="1665269841298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.6" />
+    <SUITE FILE_PATH="coverage/getskills$3_5_8.coverage" NAME="3.5.8 Coverage Results" MODIFIED="1665001919347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.5" />
     <SUITE FILE_PATH="coverage/getskills$3_9_6.coverage" NAME="3.9.6 Coverage Results" MODIFIED="1667854919649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
-    <SUITE FILE_PATH="coverage/getskills$3_9_10.coverage" NAME="3.9.10 Coverage Results" MODIFIED="1668116665959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.9" />
+    <SUITE FILE_PATH="coverage/getskills$4_1_5.coverage" NAME="4.1.5 Coverage Results" MODIFIED="1668625419317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.1" />
     <SUITE FILE_PATH="coverage/getskills$3_8_5.coverage" NAME="3.8.5 Coverage Results" MODIFIED="1666564645585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/3.8" />
+    <SUITE FILE_PATH="coverage/getskills$4_2_6.coverage" NAME="4.2.6 Coverage Results" MODIFIED="1669055227205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STEPIK/4.2" />
   </component>
 </project>

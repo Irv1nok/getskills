@@ -112,6 +112,5 @@
 # print(st.rows, st.cols) # 12, 8 - общее число строк и столбцов в таблице
 
 
-x = [[1, 2, 3], [1, 2, 3], [1, 2, 3]]
 
-print(all([type(j) == int for i in x for j in i]))
+
