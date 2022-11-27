@@ -112,5 +112,6 @@
 # print(st.rows, st.cols) # 12, 8 - общее число строк и столбцов в таблице
 
 
-
-
+a = "Hello_World"
+b = "Hello_World"
+print(id(a), id(b))
